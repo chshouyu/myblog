@@ -1,6 +1,7 @@
 {
-  "name": "application-name",
-  "version": "0.0.1",
+  "name": "myblog",
+  "version": "1.0.0",
+  "description":"我的博客~",
   "private": true,
   "scripts": {
     "start": "node app"
